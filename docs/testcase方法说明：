@@ -3,5 +3,6 @@ setup、teardown 作用范围：
 类级别：setup_class、teardown_class
 函数级别：setup_function 、 teardown_function
 一般作用在获取登录用户token，类级别即可
-
-
+1
+2
+3
