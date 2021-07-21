@@ -27,4 +27,4 @@ class Logger(object):
         self.logger.addHandler(th)
 if __name__ == '__main__':
     log = Logger()
-    # log.logger.info('1')
+    log.logger.info('info')
