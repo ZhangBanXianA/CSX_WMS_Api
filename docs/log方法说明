@@ -1,0 +1,13 @@
+%(levelno)s  		打印日志的等级
+%(levelname)s   	打印日志等级的名称
+%(pathname)s		打印当前执行程序的路径
+%(filename)s		打印当前执行程序名
+%(funcName)s		打印日志的当前函数
+%(lineno)d			打印日志的当前行号
+%(asctime)s 		打印日志的时间
+%(thread)d			打印线程ID
+%(threadName)s		打印线程名称
+%(process)d   		打印进程ID
+%(message)s			打印具体信息
+
+

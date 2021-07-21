@@ -1,0 +1,10 @@
+login_header: {
+  'Connection': 'keep-alive',
+  'accept': 'application/json, */*',
+  'login-token': 'eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1YjJmMjg3YTUxZjk0MGYzODY0Y2U5Mjc3ZjVlYmIxZSIsInVzZXJJZCI6IjEwMDAwMDAwNjAxMTM0IiwidXNlck5hbWUiOiLmuKnnoJrogaoiLCJpYXQiOjE2MjMyMTAzNDIsImV4cCI6MTYyMzI0NjM0Mn0._KzRvBr5QIyQdg3gK0GOAZMukiCI2psHiOOlG1u58y8',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',
+  'content-type': 'application/json',
+  'Origin': 'http://10.252.192.20',
+  'Referer': 'http://10.252.192.20/',
+  'Accept-Language': 'zh-CN,zh;q=0.9'
+  }
