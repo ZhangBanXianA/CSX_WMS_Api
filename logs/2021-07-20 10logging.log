@@ -1,6 +1,0 @@
-2021-07-20 10:59:48,991 - F:/CSX_WMS_Api/configs/config.py-deletes-[line:53]- - INFO: 执行sql：→DELETE FROM wms_product_stock_detail WHERE warehouse_code='W0A8' AND product_code = 1
-2021-07-20 10:59:49,421 - F:/CSX_WMS_Api/configs/config.py-deletes-[line:53]- - INFO: 执行sql：→DELETE FROM wms_product_stock_detail WHERE warehouse_code='W0A8' AND product_code = 1
-2021-07-20 10:59:49,841 - F:/CSX_WMS_Api/configs/config.py-deletes-[line:53]- - INFO: 执行sql：→DELETE FROM wms_product_stock_detail WHERE warehouse_code='W0A8' AND product_code = 1
-2021-07-20 10:59:50,253 - F:/CSX_WMS_Api/configs/config.py-deletes-[line:53]- - INFO: 执行sql：→DELETE FROM wms_product_stock_detail WHERE warehouse_code='W0A8' AND product_code = 1
-2021-07-20 10:59:50,667 - F:/CSX_WMS_Api/configs/config.py-deletes-[line:53]- - INFO: 执行sql：→DELETE FROM wms_product_stock_detail WHERE warehouse_code='W0A8' AND product_code = 1
-2021-07-20 10:59:51,422 - F:/CSX_WMS_Api/configs/config.py-deletes-[line:53]- - INFO: 执行sql：→DELETE FROM wms_product_stock_detail WHERE warehouse_code='W0A8' AND product_code = 1
