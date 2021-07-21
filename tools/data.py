@@ -27,5 +27,4 @@ def get_data(filename):
 if __name__ == '__main__':
     print(get_data('dev_oms_order_data'))
 
-
 # print(type(get_logindata()['dev_userpass']))
