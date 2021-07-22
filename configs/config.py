@@ -40,3 +40,4 @@ if __name__ == '__main__':
     for i in oms_data['oms_order_data_84']['orderItems']:
         print(i['productCode'])
         # logs.logger.info('牛逼')
+        # 这是真的牛逼
